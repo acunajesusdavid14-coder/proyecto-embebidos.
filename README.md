@@ -196,7 +196,7 @@ con una rama paralela desde el Arduino hacia el módulo de comunicación y el pa
 
 ## 7. Presupuesto económico
 
-Los valores relacionados a continuación corresponden a precios de referencia del mercado colombiano (proveedores de electrónica y plataformas como MercadoLibre), en pesos colombianos (COP), y deben validarse con cotizaciones actualizadas de los proveedores seleccionados antes de la fase de adquisición.
+Los valores relacionados a continuación corresponden a precios de referencia del mercado (proveedores de electrónica y plataformas como MercadoLibre o Amazon), en pesos colombianos (COP).
 
 | Componente | Cant. | V. unitario (COP) | Subtotal (COP) | Etapa |
 | --- | --- | --- | --- | --- |
