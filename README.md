@@ -58,7 +58,7 @@ El desafío técnico consiste en mover el brazo con la velocidad y dirección pr
 - **Resolución de los encoders:** pulsos por revolución de los sensores angulares, que determina la resolución mínima detectable del error.
 - **Periodo de muestreo T:** tiempo de ciclo del lazo de control, crítico para la estabilidad dado que el péndulo es un sistema de dinámica rápida.
 
-<img width="827" height="709" alt="image" src="https://github.com/user-attachments/assets/9d925fa9-109e-4c7e-807d-07d7e6d2b48e" />
+    <img width="827" height="709" alt="image" src="https://github.com/user-attachments/assets/9d925fa9-109e-4c7e-807d-07d7e6d2b48e" />
 
 
 ---
