@@ -67,9 +67,9 @@ El desafío técnico consiste en mover el brazo con la velocidad y dirección pr
 
 Se plantean tres opciones arquitectónicas, todas basadas en Arduino como microcontrolador principal, que priorizan características de rendimiento distintas: costo, precisión y robustez.
 
-### Opción A — Bajo costo, motor Paso a Paso con encoder incremental
+### Opción A — Bajo costo, Alta precisión, motor Paso a Paso con encoder incremental
 
-Prioriza: costo accesible y facilidad de réplica (arquitectura empleada en la mayoría de referencias documentadas de RotPen con Arduino).
+Prioriza:  precisión y repetibilidad en el posicionamiento del brazo (arquitectura empleada en la mayoría de referencias documentadas de RotPen con Arduino).
 
 - Arduino Uno como controlador principal.
 - Motor paso a paso STEPPER 17HS19-2004S1 NEMA 17 2A 59Ncm, motor bipolar de controlador gradual.
@@ -79,9 +79,9 @@ Prioriza: costo accesible y facilidad de réplica (arquitectura empleada en la m
 
 **Compromiso:** el acople por polea/correa introduce holguras que reducen la precisión respecto a un acople directo, pero mantiene el costo y la complejidad de ensamblaje bajos.
 
-### Opción B — Alta precisión, Motor DC
+### Opción B — Motor DC
 
-Prioriza: precisión y repetibilidad en el posicionamiento del brazo (control de lazo abierto determinístico).
+Prioriza: Costo accesible
 
 - Arduino Mega (mayor número de interrupciones y memoria disponibles para el lazo de control y la comunicación simultánea).
 - Motor DC con caja reductora (12V) con driver de potencia puente H (L298N).
