@@ -130,7 +130,7 @@ Las tres arquitecturas propuestas se evalúan de forma analítica bajo los mismo
 
 ## 5.1 Justificación de la decisión de diseño
 
-Se selecciona la **Opción A** (motor DC con encoder incremental y acople por polea) como arquitectura base para el prototipo de este proyecto de aula. Esta decisión se sustenta en que:
+Se selecciona la **Opción A** (motor paso a paso bipolar con encoder incremental) como arquitectura base para el prototipo de este proyecto de aula. Esta decisión se sustenta en que:
 
 1. Coincide con la arquitectura empleada en las referencias funcionales y de apoyo del proyecto, lo que reduce el riesgo técnico en las primeras iteraciones.
 2. Mantiene el costo y la complejidad de ensamblaje dentro del alcance de un semestre académico.
