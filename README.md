@@ -88,6 +88,8 @@ Prioriza: Costo accesible
 - Encoder magnético AS5600 (sin contacto, alta resolución) en el eje del péndulo.
 - Fuente 12V/2A dedicada al driver del motor paso a paso.
 
+**Compromiso:** el acople por polea/correa introduce holguras que reducen la precisión respecto a un acople directo, pero mantiene el costo y la complejidad de ensamblaje bajos.
+
 ---
 
 ### Opción C — Robustez, motor DC de alto torque con fusión sensorial (IMU)
