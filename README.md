@@ -88,7 +88,7 @@ Prioriza: Costo accesible
 - Encoder magnético AS5600 (sin contacto, alta resolución) en el eje del péndulo.
 - Fuente 12V/2A dedicada al driver del motor paso a paso.
 
-**Compromiso:** el motor paso a paso ofrece posicionamiento del brazo sin deslizamiento ni necesidad de encoder adicional en el brazo, pero su velocidad angular máxima y el rizado de par a bajas velocidades pueden limitar la capacidad de reacción ante perturbaciones rápidas, además de tener mayor costo.
+---
 
 ### Opción C — Robustez, motor DC de alto torque con fusión sensorial (IMU)
 
