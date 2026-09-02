@@ -83,7 +83,7 @@ Prioriza:  precisión y repetibilidad en el posicionamiento del brazo (arquitect
 
 Prioriza: Costo accesible
 
-- Arduino Mega (mayor número de interrupciones y memoria disponibles para el lazo de control y la comunicación simultánea).
+- Arduino Uno.
 - Motor DC con caja reductora (12V) con driver de potencia puente H (L298N).
 - Encoder magnético AS5600 (sin contacto, alta resolución) en el eje del péndulo.
 - Fuente 12V/2A dedicada al driver del motor paso a paso.
